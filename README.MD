@@ -34,6 +34,3 @@ To learn more about **Refine**, please check out the [Documentation](https://ref
 - **Ant Design** [Docs](https://refine.dev/docs/ui-frameworks/antd/tutorial/)
 - **React Router** [Docs](https://refine.dev/docs/core/providers/router-provider/)
 
-## License
-
-MIT
